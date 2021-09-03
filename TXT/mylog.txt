@@ -1,11 +1,3 @@
-# ##########################################
-# https://osp4diss.vlsm.org/ETC/logCodes.txt
-# ##########################################
-#
-# Log Format
-# ZCZC WEEK# MINUTES LogCode Description
-# LogCode + Description List
-
 ZCZC W00  70 L10 Menulis log, push Assignment 0 (setup github page sudah di minggu sebelumnya)
 ZCZC W00 100 L70 Belajar untuk matkul lain
 ZCZC W00 200 L71 Magang - Week terakhir
