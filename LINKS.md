@@ -1,6 +1,6 @@
 ---
 title: Bahan bacaan W01
-permalink: /W01/
+permalink: /LINKS/
 ---
 
 # Bahan bacaan W01

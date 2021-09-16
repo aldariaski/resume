@@ -7,4 +7,4 @@
 [Repo](https://github.com/aldariaski/os212)
 [Website](https://aldariaski.github.io/os212)  
 [Log](https://aldariaski.github.io/os212/TXT/mylog.txt)
-[W01](https://aldariaski.github.io/os212/W01/)
+[W01](https://aldariaski.github.io/os212/LINKS/)
