@@ -9,4 +9,7 @@ ZCZC W01 200 L10 Menyiapkan networking ISO file, Debian NetInst
 ZCZC W01  60 L10 Setup DEB10-00-1-INSTALL 
 ZCZC W01  60 L10 Graphical Install
 ZCZC W01 200 L10 Partisi dan setup
-ZCZC W01  10 Connect dengan Putty
+ZCZC W01  10 L28 Connect dengan Putty
+ZCZC W02 500 L21 Windows security update, mengamankan lap
+ZCZC W02 200 L32 More about Linux
+ZCZC W02 500 L70 Mengerjakan Lab KASDD
