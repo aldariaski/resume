@@ -1,4 +1,4 @@
-ZCZC W00  70 L10 Menulis log, push Assignment 0 (setup github page sudah di minggu sebelumnya)
+ZCZC W00 70 L10 Menulis log, push Assignment 0 (setup github page sudah di minggu sebelumnya)
 ZCZC W00 100 L70 Belajar untuk matkul-matkul lain
 ZCZC W00 200 L71 Magang - Week terakhir
 ZCZC W00 300 L71 Magang - persiapan presentasi akhir
@@ -6,10 +6,11 @@ ZCZC W01 140 L10 Instalasi Virtual Box
 ZCZC W00 300 L70 Lab KASDD
 ZCZC W01 400 L10 Membuat Empty Guest Virtual Box
 ZCZC W01 200 L10 Menyiapkan networking ISO file, Debian NetInst
-ZCZC W01  60 L10 Setup DEB10-00-1-INSTALL 
-ZCZC W01  60 L10 Graphical Install
+ZCZC W01 60 L10 Setup DEB10-00-1-INSTALL 
+ZCZC W01 60 L10 Graphical Install
 ZCZC W01 200 L10 Partisi dan setup
-ZCZC W01  10 L28 Connect dengan Putty
+ZCZC W01 10 L28 Connect dengan Putty
 ZCZC W02 500 L21 Windows security update, mengamankan lap
 ZCZC W02 200 L32 More about Linux
 ZCZC W02 500 L70 Mengerjakan Lab KASDD
+ZCZC W02 150 L10 Mengerjakan W02
