@@ -13,4 +13,4 @@ ZCZC W01 10 L28 Connect dengan Putty
 ZCZC W02 500 L21 Windows security update, mengamankan lap
 ZCZC W02 200 L32 More about Linux
 ZCZC W02 500 L70 Mengerjakan Lab KASDD
-ZCZC W02 150 L10 Mengerjakan W02
+ZCZC W02 250 L10 Mengerjakan W02 (trying demos, gen gnupg key pair, etc)
