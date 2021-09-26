@@ -8,3 +8,4 @@
 [Website](https://aldariaski.github.io/os212)  
 [Log](https://aldariaski.github.io/os212/TXT/mylog.txt)
 [W01](https://aldariaski.github.io/os212/LINKS/)
+[Rank](https://aldariaski.github.io/os212/TXT/myrank.txt)
