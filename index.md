@@ -5,7 +5,7 @@
 ### Operating System Repository
 
 [Repo](https://github.com/aldariaski/os212)
-[Website](https://aldariaski.github.io/os212)  
+[Website](https://aldariaski.github.io/os212)
 [Log](https://aldariaski.github.io/os212/TXT/mylog.txt)
-[W01](https://aldariaski.github.io/os212/LINKS/)
+[Links](https://aldariaski.github.io/os212/LINKS/)
 [Rank](https://aldariaski.github.io/os212/TXT/myrank.txt)
