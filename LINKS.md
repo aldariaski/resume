@@ -1,3 +1,4 @@
+
 ---
 title: Bahan bacaan OS
 permalink: /LINKS/
@@ -44,3 +45,14 @@ Mounting adalah proses mengaitkan sebuah sistem berkas yang baru ditemukan pada 
 
 4. [Linux - Tarballs, Archive and Compress Folders (tar)](https://www.youtube.com/watch?v=l0yqs8t6ywo) <br>
 Pengertian dan langkah untuk melakukan proses tar seperti archive, compress, dan extract.
+
+# Bahan bacaan W04
+
+1. [What Is Little-Endian And Big-Endian Byte Ordering?](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)<br>
+Pada dasarnya komputer menyimpan data dengan format biner. Endian adalah formatting lokasi byte byte pada data ini. Little Endian adalah LSB, Big Endian adalah MSB..
+
+2. [Pointers and Memory](http://cslibrary.stanford.edu/102/) <br>
+Laman ini menjelaskan pointers dan memory dari dasarnya sampai implementasinya di bahasa pemrograman.
+
+3. [Bagaimana virtual memory ditranslasikan ke physical memory](https://blogs.vmware.com/vsphere/2020/03/how-is-virtual-memory-translated-to-physical-memory.html) <br>
+Memori adalah salah satu sumber daya host yang paling penting. Agar beban kerja dapat mengakses memori sistem global, kita perlu memastikan alamat memori virtual dipetakan ke alamat fisik. Ada beberapa komponen yang bekerja sama untuk melakukan terjemahan ini seefisien mungkin. Posting blog ini akan membahas dasar-dasar tentang bagaimana alamat memori virtual diterjemahkan.
