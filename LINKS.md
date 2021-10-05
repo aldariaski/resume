@@ -56,3 +56,51 @@ Laman ini menjelaskan pointers dan memory dari dasarnya sampai implementasinya d
 
 3. [Bagaimana virtual memory ditranslasikan ke physical memory](https://blogs.vmware.com/vsphere/2020/03/how-is-virtual-memory-translated-to-physical-memory.html) <br>
 Memori adalah salah satu sumber daya host yang paling penting. Agar beban kerja dapat mengakses memori sistem global, kita perlu memastikan alamat memori virtual dipetakan ke alamat fisik. Ada beberapa komponen yang bekerja sama untuk melakukan terjemahan ini seefisien mungkin. Posting blog ini akan membahas dasar-dasar tentang bagaimana alamat memori virtual diterjemahkan.
+
+4. [Linux Job Control Commands](https://www.thegeekdiary.com/understanding-the-job-control-commands-in-linux-bg-fg-and-ctrlz/)<br>
+Situs web menjelaskan tentang perintah kontrol pekerjaan linux. Misalnya bg, pekerjaan, Ctrl-Z. Ini adalah topik yang menarik karena merupakan antarmuka pengguna langsung ke Sistem Operasi.
+
+5. [Paging File](https://www.youtube.com/watch?v=K2RogbAbqY4&ab_channel=OldGuyGeek)<br> 
+Paging file is actually an act of moving a data mapping from your actual memory into your virtual one. 
+
+6. [Malloc, Calloc, Realloc - Locs](https://www.youtube.com/watch?v=lQP4X3odvHE&ab_channel=EngineerMan)
+These are all memory allocations, periodt... Haha just kidding, either way they are really These are memory allocations. In C language, we've got 3 main functions to allocate some of our memories.Those are malloc(), calloc(), and realloc(). Malloc() receives some parameters on how many bytes do we want to allocated, etc. 
+
+7. [File yang Dapat Dieksekusi](https://fileinfo.com/filetypes/executable)<br>
+Tautan ini terutama tentang jenis file yang dapat dieksekusi. File yang dapat dieksekusi berisi kode yang dijalankan saat file dibuka. Tautan ini terutama tentang jenis file yang dapat dieksekusi ini, dll.
+
+8. [Variabel Lokal vs Global](https://www.guru99.com/local-vs-global-variable.html)<br>
+Ada dua jenis variabel, yang global dan yang lokal. Website ini berisi banyak tentang perbedaan antara variabel lokal dan global.
+
+# Bahan Bacaan W05
+
+1. [Apa itu Memori Virtual](https://youtu.be/qlH4-oHnBb8)<br>
+Jika Anda bertanya-tanya apa sebenarnya memori virtual, tautan ini cocok untuk Anda.
+
+2. [Di mana VM Ada?](https://www.quora.com/Where-does-virtual-memory-exists)<br>
+Sebenarnya apa yang kita tidak lihat secara material. Seperti yang tersirat dari kata itu, itu adalah virtual.
+
+3. [Pilihan pengalokasi memori](https://stackoverflow.com/questions/15470560/what-to-choose-between-slab-and-slub-allocator-in-linux-kernel)<br>
+Ada slab, slub, dan slob adalah pengalokasi memori yang tersedia di linux. Bagaimana Anda memilih di antara mereka bertiga? Apakah Anda hanya secara acak memilih satu pengalokasi dan melanjutkan hidup? Saya tidak berpikir begitu. Dalam posting ini Anda akan belajar lebih banyak tentang pengalokasi.
+
+4. [Algoritme penggantian halaman](https://youtu.be/2XMVk5YA7vA)<br>
+Video ini akan menjelaskan banyak tentang algoritma penggantian halaman. Anda harus menonton video ini jika Anda tertarik dengan algoritme secara umum.
+
+5. [Macam memori](https://www.youtube.com/watch?v=dZcszUj5szA&ab_channel=Techquickie)<br>
+Ada banyak jenis memori. Ada DRAM, SRAM, cache, dll. Jenisnya banyak tapi fungsinya sama semua.
+
+6. [Thrashing](https://www.thecrazyprogrammer.com/2019/02/thrashing-in-operating-system-os.html)<br>
+Thrashing itu adalah kondisi di mana suatu program membutuhkan beberapa ruang ekstra yang lebih besar dari RAM atau ketika semua RAM ditempati oleh program lain, maka sistem akan mencoba mengalokasikan beberapa ruang ekstra dari memori sekunder dan itu akan berperilaku seperti utama Penyimpanan.
+
+7. [Proses Alokasi Global Frame vs Lokal Frame](https://www.youtube.com/watch?v=INkGpEuO5XA&ab_channel=MarcoCortes)<br>
+Video ini membantu dalam mempelajari lebih lanjut tentang proses alokasi frame global dan lokal.
+
+8. [Puppy linux](https://puppylinux.com/)<br>
+Seberapa rendah kita bisa me-reboot memori? Puppy linux terkait dengan topik itu.
+
+9. [Vfork](https://man7.org/linux/man-pages/man2/vfork.2.html)<br>
+Ini adalah dokumentasi linux dari vfork dan cara menggunakannya. Disebutkan di OSC bab 10, cukup menarik dan terkait dengan topik kita selanjutnya di bawah ini, jadi Anda harus membaca yang ini terlebih dahulu.
+
+10. [Fork vs vfork](https://www.geeksforgeeks.org/difference-between-fork-and-vfork/)<br>
+Kita sudah belajar tentang fork dan vfork. Sekarang apa perbedaan antara keduanya? Pada artikel ini Anda akan mengetahui tentang perbedaan antara fork dan vfork dan cara menggunakannya.
+

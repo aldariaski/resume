@@ -24,3 +24,6 @@ ZCZC W03 45 L12 Update links, ranking and log
 ZCZC W03 10 L13 Revisi myscript.sh serta run myscript.sh
 ZCZC W04 600 L99 Sakit
 ZCZC W04 400 L09 Mengerjakan assignment w 04
+ZCZC W05 20 L22 Kuis OS
+ZCZC W05 100 L02 Kelas OS
+ZCZC W05 150 L09 Mengerjakan assignment W05
