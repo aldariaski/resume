@@ -2,7 +2,7 @@
 # Yusuf Fakhri Aldrian - Resume
 ## Yusuf Fakhri Aldrian
 ---
-### Operating System Repository
+### Yusuf Fakhri Aldrian - Resume
 <script src="https://kit.fontawesome.com/c2deaccc5f.js" crossorigin="anonymous"></script>
 
 [<i class="fab fa-github"></i> Github](https://github.com/aldariaski) |
